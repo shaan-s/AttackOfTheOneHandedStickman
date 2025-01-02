@@ -27,7 +27,7 @@ A double punch, which can only be used in the second level
 # Installation
 Make sure the latest version of Python is installed. The game uses the non-built-in package `pygame`, which must be installed first. Since the game was built in repl.it, it is also compatible with repl's audio package, however pygame is still needed for the visuals.
 
-`pip install colorama`
+`pip install pygame`
 
 `git clone https://github.com/shaan-s/AttackOfTheOneHandedStickman`
 
